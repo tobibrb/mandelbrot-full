@@ -192,4 +192,4 @@ public class MandelbrotRest {
 
 }
 
-//TODO: Bucket Geschwindigkeit: Amazon -> 4.6 ms, total -> 69.4 ms; CloudFront: Amazon -> 4.6 ms, total: 67.4
+//TODO: Bucket Geschwindigkeit: 3.8s; CloudFront: 410ms
