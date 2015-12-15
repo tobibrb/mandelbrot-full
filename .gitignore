@@ -1,0 +1,7 @@
+/.idea
+/mandelbrot.iml
+# Created by .ignore support plugin (hsz.mobi)
+/*.pdf
+/*.png
+/*.jpg
+/target
